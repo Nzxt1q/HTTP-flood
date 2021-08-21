@@ -6,7 +6,7 @@
 open terminal and type :
 git clone https://github.com/Nzxt1q/HTTP-flood.git
 cd HTTP-flood
-python3 script.py <hostaname> <port deafult 80> <time>
+python3 http-flood.py
 
 
 
@@ -19,7 +19,7 @@ __      _(_)_ __   __| | _____      _____
 download .zip
 extract at desktop
 open cmd in folder
-python script.py <hostname> <port default 80> <time>
+python http-flood.py
 
 
 
