@@ -21,7 +21,7 @@ elif len(sys.argv) == 4:
     port = int(sys.argv[2])
     num_requests = int(sys.argv[3])
 else:
-    (f"ERROR\n {sys.argv[0]} < Hostname > < Port > < Number_of_Attacks >")
+    print 
 print (f" _   _ ___  ___")
 print (f"| | | / __|/ _ \ ")
 print (f"| |_| \__ \  __/ ")
